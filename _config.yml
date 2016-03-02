@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
+title: iamjunwei's blog
+subtitle: 与知识同行
+description: walk with knowledge
+author: iamjunwei
+language: zh-Hans
 timezone:
 
 # URL
