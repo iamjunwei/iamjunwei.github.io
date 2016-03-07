@@ -247,6 +247,6 @@ version: 0.5.0
 
 duoshuo_shortname: iamjunwei
 
-duoshuo_hotartical: true
+#duoshuo_hotartical: true
 
 baidu_analytics: 621a8aa7ed1dbc08a78bddb4fdf5b9fd
