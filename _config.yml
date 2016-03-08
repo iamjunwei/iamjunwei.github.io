@@ -5,14 +5,14 @@
 # Site
 title: iamjunwei's blog
 subtitle: 与知识同行
-description: walk with knowledge
+description: 记录自己Android技术上的成长历程。
 author: iamjunwei
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://iamjunwei.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
