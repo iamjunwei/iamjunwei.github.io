@@ -162,7 +162,7 @@ mathjax: true
 
 
 # Swiftype Search API Key
-#swiftype_key:
+swiftype_key: 3iCJE3bvLYMUQyqdPtvU
 
 # Baidu Analytics ID
 #baidu_analytics:
@@ -212,9 +212,9 @@ facebook_sdk:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  app_id: YgzRs8xNMk7tpCyOpg1n08RO-gzGzoHsz
+  app_key: tR4k30M4lquMmxVCpcmHY5qW
 
 
 # Tencent analytics ID
